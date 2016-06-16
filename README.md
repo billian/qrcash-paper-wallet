@@ -1,4 +1,4 @@
-coldwallet.html checksum SHA1: 408599ca990aa42cad96931d32a84aa6fcfff94a
+**coldwallet.html checksum SHA1: 408599ca990aa42cad96931d32a84aa6fcfff94a**
 
 ## Tutorial: How to securely store XRP on a paper wallet
 
@@ -18,7 +18,7 @@ A paper wallet stores a new, randomly generated ripple secret key, represented a
 
 ### How to create a ripple paper wallet offline?
 
-*This tutorial requires a higher level of technical knowledge.
+*This tutorial requires a higher level of technical knowledge.*
 
 1. Get a live linux distro such as TAILS (https://tails.boum.org/download/index.en.html) and burn to disk/usb. Verify the TAILS checksum.
 2. Get Ripply coldwallet.html file at https://github.com/ripplyeu/ripply-paper-wallet and put it on a disk/usb. Verify the coldwallet.html checksum.
@@ -31,7 +31,7 @@ A paper wallet stores a new, randomly generated ripple secret key, represented a
 
 ### How to create a ripple paper wallet online?
 
-*This tutorial doesn't require much technical knowledge.
+*This tutorial doesn't require much technical knowledge.*
 
 1. Navigate to https://ripply.eu/coldwallet.html
 2. Copy the ripple address (NOT the secret key) and save it for later, to conveniently monitor the balance on your paper wallet
@@ -42,7 +42,7 @@ A paper wallet stores a new, randomly generated ripple secret key, represented a
 ### How to restore funds from a paper wallet.
 
 Option 1 - Use the Ripply Android app
-- Download the app
+- Download the app: https://play.google.com/store/apps/details?id=com.ripplewallet.ripplewallet
 - Scan the secret key QR to import it
 - Now you are able to send your XRP
 
